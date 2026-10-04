@@ -10,7 +10,7 @@
 [- 💬 Ask me about ...]: #
 
 - 📫 How to reach me: by email <barpucha@pg.edu.pl>
-- 
+
 [- 😄 Pronouns: ...]: #
 
 [- ⚡ Fun fact: ...]: #
