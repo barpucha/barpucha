@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Gaussian Processes Regression for dynamic models
 - 🌱 I’m currently learning Gaussian Process Regression and Machine Learning
-- 
+
 [- 👯 I’m looking to collaborate on ...]: #
 
 [- 🤔 I’m looking for help with ...]: #
